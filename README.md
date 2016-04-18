@@ -14,15 +14,15 @@ Detailed Abstract
 
 Introduction
 --------
-As a developer, I have failed. I have failed many times and each failure has been an opportunity to learn something new. My knowledge of the django ORM consists of battle scars and these tips and tricks serve as a public invitation to learn from my pain instead of your own. 
+As a developer, I have failed. I have failed many times and each failure has been an opportunity to learn something new. My knowledge of the django ORM has grown from the battle scars of these failures.  Throughout the years, I have developed tips and tricks, and hope that they can lessen the strife of future ORM users. 
 
 Tools
 -----
-Several tools have proven invaluable for debugging, ad hoc experimentation, and for impressing the end users. I will go over powerful code snippets, third party apps for beautifying the admin, and must use debugging tools for quick querying, identifying performance issues, and viewing data and models. 
+Several tools have proven invaluable for debugging, ad hoc experimentation, and for impressing the end users. I will go over powerful code snippets, third party apps for beautifying the admin, and must use debugging tools for quick querying, identifying performance issues, and viewing data and models. And much more...
 
 Conventions
 -----------
-Several conventions arise from using the ORM on a daily basis. I will outline the most important steps to limit over querying, displaying data in a sensical format to the end users with least effort, and designing your models to reduce code and validate data effectively. 
+Several conventions arise from using the ORM on a daily basis. These conventions streamline many processes, and insure sustainability of scallable applications. I will outline the most important steps to limit over querying, displaying data in a sensical format to the end users with least effort, and designing your models to reduce code and validate data effectively. 
 
 Data Modeling
 -----------
